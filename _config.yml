@@ -5,6 +5,7 @@ email: your-email@domain.com
 description: A wonderful site
 twitter_username: jekyllrb
 github_username:  jekyll
+show_downloads: false
 
 # Build settings
 markdown: kramdown
